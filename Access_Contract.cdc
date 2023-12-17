@@ -30,11 +30,11 @@ access(all) contract SomeContract {
             /**************/
             /*** AREA 1 ***/
             /**************/
-            //variable read : a,b,c,d
+            //read variable : a,b,c,d
 
-            //variable write :a,b,c,d
+            //write variable : a,b,c,d
 
-            //function call:  publicfun,contarctfun,privatefun
+            //function : publicfun,contarctfun,privatefun
             
         }
 
@@ -53,11 +53,11 @@ access(all) contract SomeContract {
             /**************/
             /*** AREA 2 ***/
             /**************/
-             //variable read :a,b,c
+            //read variable : a,b,c
 
-            //variable write :a
+            //write variable : a
 
-            //function call :  publicfun,contarctfun
+            //function :  publicfun,contarctfun
         }
 
         init() {
@@ -73,11 +73,11 @@ access(all) contract SomeContract {
         /**************/
         /*** AREA 3 ****/
         /**************/
-            //variable read  :a,b,c
+        //read variable : a,b,c
 
-            //variable write :a
+        //write variable : a
 
-            //function call : publicfun,contarctfun
+        //function : publicfun,contarctfun
     }
 
     init() {
