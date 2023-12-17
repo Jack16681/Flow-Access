@@ -4,9 +4,9 @@ pub fun main() {
   /**************/
   /*** AREA 4 ***/
   /**************/
-             //variable read :a,b
+  //read variable : a,b
 
-            //variable write: a (thecnically)
+  //write variable : a (thecnically)
 
-            //function call:
+  //function call : 
 }
