@@ -34,7 +34,7 @@ access(all) contract SomeContract {
 
             //write variable : a,b,c,d
 
-            //function : publicfun,contarctfun,privatefun
+            //function : publicFunc(), contarctFunc(), privateFunc()
             
         }
 
@@ -57,7 +57,7 @@ access(all) contract SomeContract {
 
             //write variable : a
 
-            //function :  publicfun,contarctfun
+            //function :  publicFunc(), contarctFunc()
         }
 
         init() {
@@ -77,7 +77,7 @@ access(all) contract SomeContract {
 
         //write variable : a
 
-        //function : publicfun,contarctfun
+        //function : publicFunc(), contarctFunc()
     }
 
     init() {
