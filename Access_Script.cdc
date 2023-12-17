@@ -6,7 +6,7 @@ pub fun main() {
   /**************/
   //read variable : a,b
 
-  //write variable : a (thecnically)
+  //write variable : a (thecnical)
 
   //function call : 
 }
